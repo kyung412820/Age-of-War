@@ -12,9 +12,8 @@
  - [개발 환경](#개발-환경)
  - [사용 기술](#사용-기술)
  - [핵심 기능](#핵심-기능)
-   - [Web](#web)
-   - [Deep Learning](#deep-learning)
-   - [Text Mining](#text-mining)
+   - [네트워크 프로토콜](#네트워크프로토콜)
+   - [게임](#게임)
  - [Trouble Shooting](#trouble-shooting)
 
 
